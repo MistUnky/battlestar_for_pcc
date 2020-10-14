@@ -1,0 +1,1 @@
+pcc batlstar.c comm1.c comm2.c comm3.c comm4.c comm5.c comm6.c comm7.c init.c cypher.c getcom.c parse.c room.c save.c fly.c misc.c globals.c dayfile.c nightfile.c dayobjs.c nightobjs.c words.c alarm.c
